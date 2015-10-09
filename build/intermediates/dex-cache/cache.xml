@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\pre-dexed\debug\classes-869a86f366769b582b8ffbff953d4ede22e98738.jar" />
+    </item>
+    <item
+        jar="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\libs\locSDK_5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="389047997db28fcb848dc4247c5590a08b7ff769">
+        <dex dex="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\pre-dexed\debug\locSDK_5.2-5ce4631edd02a5d387d54ff3f6acf7242c72ab03.jar" />
+    </item>
+    <item
+        jar="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\pre-dexed\debug\classes-08a70bd395c69b878526254ff19b7992d1bbd434.jar" />
+    </item>
+    <item
+        jar="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e5fabf2f952202e4fdc834cbbc166e47d0c099e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\libs\baidumapapi_v3_5_0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba79500bb64218f10b5fd0d5ea54503b2bf6b3bb">
+        <dex dex="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_5_0-0f34ca0c68c391632f910eab005d78c09db4d809.jar" />
+    </item>
+    <item
+        jar="C:\Users\gzy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\gzy\Desktop\交付内容\BaiduMapsApiDemo2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7fa263d6702c7b81beee81d0a2a37d177ce5204b.jar" />
+    </item>
+
+</items>
